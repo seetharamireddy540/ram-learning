@@ -1,0 +1,3 @@
+[submodule "libs/python-learning"]
+	path = libs/python-learning
+	url = git@github.com:seetharamireddy540/python-daily-learning.git
